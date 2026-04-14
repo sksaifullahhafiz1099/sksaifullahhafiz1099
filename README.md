@@ -20,9 +20,7 @@ Bangladesh University of Engineering and Technology (BUET)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksaifullahhafiz1099&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksaifullahhafiz1099&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksaifullahhafiz1099&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" height="300" />
 </p>
 
 <p align="center">

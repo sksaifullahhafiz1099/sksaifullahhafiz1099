@@ -13,7 +13,7 @@
 
 **BSc in Computer Science and Engineering**
 Bangladesh University of Engineering and Technology (BUET)
-*February 2020 – Present · Level 4, Term 2*
+*February 2020 – June 2026*
 
 ---
 
